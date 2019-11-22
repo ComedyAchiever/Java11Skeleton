@@ -3,40 +3,40 @@ Name:
 
 Chapter 8:
 
-1.
+1. byte short int long float double char booblean
 
-2.
+2."A" is differant that "a"
 
-3.
+3.objects
 
-4.
+4. long
 
-5.
+5.double
 
-6.
+6. L
 
-7.
+7. F
 
-8.
+8. 1450
 
-9.
+9.more storage?
 
-10.
+10./n is the enter character /t is tab
 
-11.
+11.strings have "'s chars have ''s
 
-12.
+12. true or false
 
 Chapter 9:
 
 1.
     1.1
     
-    1.2
+    1.2 string firstname = "first name", lastname = "last name";
 
-2.
+2. class boolean byte false
 
-3.
+3. 
 
 Chapter 10:
 

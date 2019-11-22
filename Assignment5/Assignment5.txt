@@ -1,38 +1,38 @@
 Assignment 5
 Name:
 
-1.
+1. system.in system.out system.err
 
-2.
+2. system.out
 
-3.
+3.import java.util.Scanner;?
 
-4.
+4. echo
 
 5.
-    5.1.
+    5.1. line 5 
 
-    5.2.
+    5.2. line 6
 
-    5.3.
+    5.3. line 7
 
-6.
+6. no, line 6
 
-7.
+7. line 7
 
-8. This is in NameEcho.java
+8. yeah
 
-9. This is in NameEchoAlt.java
+9. it prints on the same line
 
-10.
+10. nextInt​()
 
 11.
-    11.1.
+    11.1. 2116
 
-    11.2.
+    11.2.2500000000
 
-    11.3.
+    11.3. make it long instead of int
 
 12. This is in AddThree.java
 
-13. 
+13. 17

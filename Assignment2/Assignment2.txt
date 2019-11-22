@@ -1,21 +1,21 @@
-Name:
+Name:Gabe
 
 
-1.
+1. source code is text created by a programmer, and byte code is the version made readable to java
 
-2.
+2. an area of code that defines an object
 
 3.
 
-4.
+4. a series of characters
 
-5.
+5. yes
 
-6.
+6. when the result doesnt give an expected outcome
 
-7.
+7. it prints whatever its told to
 
-8.
+8. /n
 
 9.
 
