@@ -7,12 +7,13 @@ class GetNumbersFromFile {
 
         File file = new File("data.txt");
         Scanner scan = new Scanner(file);
-        int data = 0;
+        int age = 0;
 
-        while (data != -1) {
-            data = scan.nextInt();
-            System.out.println(data);
+        while (age != -1) {
+            age = scan.nextInt();
+            System.out.println(age);
         }
+        
         scan.close();
     }
 }

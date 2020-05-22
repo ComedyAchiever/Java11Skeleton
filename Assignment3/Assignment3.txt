@@ -30,19 +30,19 @@ Chapter 8:
 Chapter 9:
 
 1.
-    1.1
+    1.1 Long x;
     
-    1.2 string firstname = "first name", lastname = "last name";
+    1.2 String firstname = "first name", String lastname = "last name";
 
 2. class boolean byte false
 
-3. 
+3. money = 123.45;
 
 Chapter 10:
 
-1.
+1. it gives you 2
 
-2.
+2. it gives you 1
 
 3.
 

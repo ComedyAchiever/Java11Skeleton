@@ -3,7 +3,7 @@ public class BasicsDemoLoop {
         for (int i = 0; i < 1000; i++) {
             System.out.println ("This is line " + i);
 
-            System.out.println ("Anything between the { and } will repeat 10 times");
+            System.out.println ("Anything between the { and } will repeat 1000 times");
         }
         System.out.println ( "Finished counting");
     }

@@ -5,7 +5,7 @@ Name:Gabe
 
 2. an area of code that defines an object
 
-3.
+3. the entry point tot the application
 
 4. a series of characters
 
@@ -17,23 +17,24 @@ Name:Gabe
 
 8. /n
 
-9.
+9.  String[] test = {"1", "2", "3", "4",};
+    System.out.println(+ test[j]);
 
-10.
+10. k
 
-11.
+11. boolean , byte , char , short , int , long , float, double
 
-12.
+12. long
 
-13.
+13. double
 
 14.
-a.
-b.
+a. int
+b. char
 
-15.
+15. 5.9345
 
-16.
+16. a character
 
-17.
+17. true and false
 

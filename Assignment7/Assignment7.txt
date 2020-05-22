@@ -1,24 +1,24 @@
 Assignment 7
-Name:
+Name:  Gabe
 
 Chapter 13
 ==========
 
-1.
+1.nothing?
 
-2.
+2.it crashes, it also crashes
 
 3.
 
-4.
+4. 12.0
 
-5.
+5. a modifier 
 
-6.
+6. NaN
 
-7.
+7. Not-A-Number
 
-8.
+8. 0.1111111
 
 
 Chapter 16
